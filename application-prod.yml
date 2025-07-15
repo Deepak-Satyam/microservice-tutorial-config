@@ -1,6 +1,6 @@
 spring:
   application:
-    name: Cofig-Default
+    name: Cofig-Prod
 
 eureka:
   instance:
